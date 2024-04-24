@@ -31,9 +31,11 @@ npm install
 
 I have added my API key altough you can create your own by the following ways -
 
-a. Sign up for an API key at [Weather API](https://openweathermap.org/api).
-b. Create a `.env` file in the project root directory.
-c. Add your API key to the `.env` file: REACT_APP_WEATHER_API_KEY=your_api_key_here
+1. Sign up for an API key at [Weather API](https://openweathermap.org/api).
+
+2. Create a `.env` file in the project root directory.
+
+3. Add your API key to the `.env` file: REACT_APP_WEATHER_API_KEY=your_api_key_here
 
 ## Usage
 
