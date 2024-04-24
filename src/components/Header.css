@@ -1,0 +1,15 @@
+.weather-header {
+  width: 100%;
+  height: 100px;
+  background-color: #dc2424;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+}
+
+@media (max-width: 550px) {
+  .weather-header {
+    font-size: 14px;
+  }
+}
