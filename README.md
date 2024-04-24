@@ -17,11 +17,11 @@ Step-by-step instructions on how to install and set up the project locally. Incl
 
 1. Clone the repository:
 
-git clone ""
+git clone https://github.com/Nitesh-bit/Weather--App.git
 
 2. Navigate to the project directory:
 
-cd
+cd Weather--App
 
 3. Install dependencies:
 
@@ -42,6 +42,10 @@ c. Add your API key to the `.env` file: REACT_APP_WEATHER_API_KEY=your_api_key_h
 npm run dev
 
 2. Open your browser and navigate to `http://localhost:5173/` to view the app.
+
+## Live Project
+
+- Live Site URL: [Project Link](https://weatherapp1210.netlify.app/)
 
 ## Credits
 
